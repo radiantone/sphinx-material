@@ -442,9 +442,7 @@ button[data-md-color-primary=white] {
 [data-md-color-primary=white] .md-header,
 [data-md-color-primary=white] .md-hero,
 button[data-md-color-primary=white] {
-    background-image: url(../dotsbg2b.png);
-    background-position-y: -58px;
-    height: 140px;
+    background-color:transparent;
 }
 
 [data-md-color-primary=white] .md-hero--expand {
