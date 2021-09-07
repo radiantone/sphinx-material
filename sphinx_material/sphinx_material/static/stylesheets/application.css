@@ -604,7 +604,7 @@ hr{
     left:0;
     height:2.4rem;
     transition:background-color .25s,color .25s;
-    background-image: url(../dotsbg2.png);
+    background-image: url(../dotsbg2b.png);
     color:#fff;
     box-shadow:none;
     z-index:2;
