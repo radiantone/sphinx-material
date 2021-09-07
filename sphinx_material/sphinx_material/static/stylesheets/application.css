@@ -1270,8 +1270,9 @@ html body .md-typeset .md-source-file{
 .md-tabs{
     width:100%;
     transition:background .25s;
-    background-color:#3f51b5;
-    color:#fff;
+
+    background-color: transparent;
+    color: rgb(0 0 0 / 87%);
     overflow:auto
 }
 .md-tabs__list{
