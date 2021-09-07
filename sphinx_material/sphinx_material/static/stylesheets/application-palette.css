@@ -1324,9 +1324,7 @@ button[data-md-color-accent=deep-orange] {
         background-color: #757575
     }
     [data-md-color-primary=blue-grey] .md-tabs {
-
-    background-image: url(../dotsbg2b.png);
-    background-position-y: -58px;
+        background-color: transparent
     }
     [data-md-color-primary=white] .md-tabs {
         border-bottom: .05rem solid rgba(0, 0, 0, .07);
