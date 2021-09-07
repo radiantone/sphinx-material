@@ -421,7 +421,8 @@ button[data-md-color-primary=blue-grey] {
 }
 
 [data-md-color-primary=blue-grey] .md-header,
-[data-md-color-primary=blue-grey] .md-hero {
+
+{
     background-color: #546e7a
 }
 
@@ -441,8 +442,8 @@ button[data-md-color-primary=white] {
 [data-md-color-primary=white] .md-header,
 [data-md-color-primary=white] .md-hero,
 button[data-md-color-primary=white] {
-    background-color: #fff;
-    color: rgba(0, 0, 0, .87)
+    background-image: url(../dotsbg2.png);
+    height: 140px;
 }
 
 [data-md-color-primary=white] .md-hero--expand {
